@@ -1,6 +1,6 @@
 <h1 align="center">Oie, sou a Anna Livia 😊!</h1>
 <h3 align="center">Uma estudante de Engenharia da Computação no 4º período na UFPB</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.picrew.me/shareImg/org/202405/1249093_tO0aHcG0.png">
+<img align="right" alt="Coding" width="300" src="https://cdn.picrew.me/shareImg/org/202405/1249093_tO0aHcG0.png">
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">

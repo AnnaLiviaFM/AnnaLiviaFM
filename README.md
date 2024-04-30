@@ -1,9 +1,4 @@
-### Oie, sou a Anna Livia 😊
-
-![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaLiviaFM&show_icons=true&theme=onedark)
-
-
-<h1 align="center">Oiee 👋, eu sou a Livia!</h1>
+<h1 align="center">Oie, sou a Anna Livia 😊!</h1>
 <h3 align="center">Uma estudante de Engenharia da Computação no 4º período</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annaliviafm&label=Profile%20views&color=0e75b6&style=flat" alt="annaliviafm" /> </p>
@@ -18,6 +13,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annaliviafm&show_icons=true&locale=en&layout=compact" alt="annaliviafm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annaliviafm&show_icons=true&locale=en" alt="annaliviafm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annaliviafm&show_icons=true&theme=onedark" alt="annaliviafm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annaliviafm&" alt="annaliviafm" /></p>

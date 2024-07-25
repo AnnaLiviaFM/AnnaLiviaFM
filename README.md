@@ -1,5 +1,5 @@
 <h1 align="center">Oie, sou a Anna Livia 😊!</h1>
-<h3 align="center">Uma estudante de Engenharia da Computação no 4º período na UFPB</h3>
+<h3 align="center">Uma estudante de Engenharia da Computação no 5º período na UFPB</h3>
 
 ## Conecte-se comigo
 <p align="left">

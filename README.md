@@ -1,5 +1,4 @@
 <h1 align="center">Oie, sou a Livia! 👋</h1>
-<h3 align="center">🎓 Estudante de Engenharia da Computação na UFPB (8º período)</h3>
 
 
 

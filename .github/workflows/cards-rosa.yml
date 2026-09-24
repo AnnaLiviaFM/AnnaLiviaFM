@@ -1,0 +1,33 @@
+name: Gerar cards rosa
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # todo dia às 3h (horário de Brasília)
+  workflow_dispatch:       # permite rodar na mão pela aba Actions
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gerar os cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python gerar_cards.py
+
+      - name: Salvar no repositório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cards
+          git diff --cached --quiet || git commit -m "🌷 atualiza cards"
+          git push

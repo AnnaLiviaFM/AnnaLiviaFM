@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="185" viewBox="0 0 360 185">
+  <rect x="1" y="1" rx="16" width="358" height="183" fill="#FFF5F9" stroke="#F8C8DC" stroke-width="2"/>
+  <text x="25" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="18" font-weight="700" fill="#C77DAA">✿ meus números</text>
+  <circle cx="31" cy="70" r="6" fill="#F4A6C6"/>
+  <text x="45" y="75" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="14" fill="#5E4B56">Repositórios</text>
+  <text x="335" y="75" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="14" font-weight="700" fill="#C77DAA" text-anchor="end">13</text>
+  <circle cx="31" cy="98" r="6" fill="#FFD6A5"/>
+  <text x="45" y="103" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="14" fill="#5E4B56">Estrelas</text>
+  <text x="335" y="103" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="14" font-weight="700" fill="#C77DAA" text-anchor="end">3</text>
+  <circle cx="31" cy="126" r="6" fill="#B5EAD7"/>
+  <text x="45" y="131" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="14" fill="#5E4B56">Seguidores</text>
+  <text x="335" y="131" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="14" font-weight="700" fill="#C77DAA" text-anchor="end">28</text>
+  <circle cx="31" cy="154" r="6" fill="#CDB4DB"/>
+  <text x="45" y="159" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="14" fill="#5E4B56">Forks recebidos</text>
+  <text x="335" y="159" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="14" font-weight="700" fill="#C77DAA" text-anchor="end">1</text>
+</svg>

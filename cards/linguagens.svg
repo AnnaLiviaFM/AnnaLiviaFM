@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="185" viewBox="0 0 360 185">
+  <rect x="1" y="1" rx="16" width="358" height="183" fill="#FFF5F9" stroke="#F8C8DC" stroke-width="2"/>
+  <text x="25" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="18" font-weight="700" fill="#C77DAA">✿ linguagens favoritas</text>
+  <clipPath id="c"><rect x="25" y="55" width="310" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#c)">
+    <rect x="25.0" y="55" width="227.3" height="10" fill="#F4A6C6"/>
+    <rect x="252.3" y="55" width="54.5" height="10" fill="#CDB4DB"/>
+    <rect x="306.8" y="55" width="26.7" height="10" fill="#B5EAD7"/>
+    <rect x="333.5" y="55" width="1.1" height="10" fill="#FFD6A5"/>
+    <rect x="334.6" y="55" width="0.3" height="10" fill="#A2D2FF"/>
+    <rect x="334.9" y="55" width="0.1" height="10" fill="#FFC8DD"/>
+  </g>
+  <circle cx="30" cy="88" r="5" fill="#F4A6C6"/>
+  <text x="41" y="92" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" fill="#5E4B56">Roff <tspan fill="#9C8792">73.3%</tspan></text>
+  <circle cx="180" cy="88" r="5" fill="#CDB4DB"/>
+  <text x="191" y="92" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" fill="#5E4B56">C <tspan fill="#9C8792">17.6%</tspan></text>
+  <circle cx="30" cy="114" r="5" fill="#B5EAD7"/>
+  <text x="41" y="118" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" fill="#5E4B56">C++ <tspan fill="#9C8792">8.6%</tspan></text>
+  <circle cx="180" cy="114" r="5" fill="#FFD6A5"/>
+  <text x="191" y="118" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" fill="#5E4B56">Python <tspan fill="#9C8792">0.4%</tspan></text>
+  <circle cx="30" cy="140" r="5" fill="#A2D2FF"/>
+  <text x="41" y="144" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" fill="#5E4B56">Kotlin <tspan fill="#9C8792">0.1%</tspan></text>
+  <circle cx="180" cy="140" r="5" fill="#FFC8DD"/>
+  <text x="191" y="144" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" fill="#5E4B56">Makefile <tspan fill="#9C8792">0.0%</tspan></text>
+</svg>

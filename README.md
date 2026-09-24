@@ -1,12 +1,12 @@
 <!-- banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8C8DC,50:CDB4DB,100:B5EAD7&height=180&section=header&text=oiê,%20eu%20sou%20a%20Livia%20✿&fontSize=40&fontColor=5E4B56&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8C8DC,50:CDB4DB,100:B5EAD7&height=180&section=header&text=Oi,%20eu%20sou%20a%20Livia%20✿&fontSize=40&fontColor=5E4B56&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <!-- texto digitando -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=1200&color=C77DAA&center=true&vCenter=true&width=520&lines=engenheira+de+computação+em+construção+🌷;co-CEO+da+Rigtech+Solutions+🌱;ensinando+drones+a+achar+matinho+🛸🌾;ESP32%2C+visão+computacional+e+café+☕" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Quicksand&weight=600&size=20&duration=3000&pause=1200&color=C77DAA&center=true&vCenter=true&width=520&lines=engenheira+de+computa%C3%A7%C3%A3o+em+constru%C3%A7%C3%A3o;co-CEO+da+Rigtech+Solutions;ensinando+drones+a+achar+matinho;ESP32+%2B+vis%C3%A3o+computacional+%2B+caf%C3%A9" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,8 +15,8 @@
 ### 🌸 um pouquinho sobre mim
 
 - 🎓 Estudo **Engenharia de Computação** na **UFPB**
-- 🌱 Sou **CTO** da [**Rigtech Solutions**](https://github.com/Rigtech-Solutions), onde a gente usa tecnologia pra cuidar do campo
-- 🛸 Trabalho com **visão computacional** e **imagens de drone, satélites e foguetes** pra detectar plantas daninhas
+- 🌱 Sou **co-CEO** da [**Rigtech Solutions**](https://github.com/Rigtech-Solutions), onde a gente usa tecnologia pra cuidar do campo
+- 🛸 Trabalho com **visão computacional** e **imagens de drone** pra detectar plantas daninhas
 - 🔌 Adoro mexer com **hardware embarcado** (oi, ESP32 👋)
 - 📍 Direto de **João Pessoa - PB** ☀️🌊
 
@@ -33,8 +33,8 @@
 ### 🌷 meus números
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnnaLiviaFM&show_icons=true&hide_border=true&bg_color=FFF5F9&title_color=C77DAA&icon_color=B5EAD7&text_color=5E4B56" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaLiviaFM&layout=compact&hide_border=true&bg_color=FFF5F9&title_color=C77DAA&text_color=5E4B56" />
+  <img height="165" src="./profile-summary-card-output/default/3-stats.svg" />
+  <img height="165" src="./profile-summary-card-output/default/1-repos-per-language.svg" />
 </p>
 
 ---
